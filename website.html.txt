@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>GO DEV</title>
+     </head>
+     <body bgcolor="yellow">
+        godev
+        <h1><u>GO DEV</u></h1>
+        <h2><i>GO DEV</i></h2>
+        <h3>GODEV</h3>
+        <h4>godev</h4>
+        <p>This is a paragragph</p>
+
+        <OL>
+            <li>FIRST ITEM</li>
+            <li>FIRST ITEM</li>
+            <li>FIRST ITEM</li>
+            <li>FIRST ITEM</li>
+
+
+
+        </OL>
+        <ul>
+            <li>First Item</li>
+            <li>FIRST ITEM</li>
+            <li>FIRST ITEM</li>
+            <li>FIRST ITEM</li>
+
+
+
+        </ul>
+
+        <table border="10"  BGCOLOR="BLUE">
+            <tr>
+                <td COLSPAN="4">Students</td>
+            </tr>
+
+            <tr>
+                <td>ID</td>
+                <td>Name</td>
+                <td>Number</td>
+            </tr>
+
+            <tr>
+                <td>1</td>
+                <td>Kamran</td>
+                <td>03442491118</td>
+            </tr>
+
+            <tr>
+                <td>2</td>
+                <td>abbas</td>
+                <td>0331245321</td>
+            </tr>
+
+
+
+        </table>
+    
+    </body>
+          
+ </html>      
